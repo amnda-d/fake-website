@@ -2,6 +2,8 @@
 title: Fake Website
 ---
 
+[My CV](examplecv.pdf)
+
 # About Me
 
 Hello its me
